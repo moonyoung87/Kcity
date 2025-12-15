@@ -1,0 +1,141 @@
+/*margin*/
+.mb0{margin-bottom:0 !important;}
+.mb5{margin-bottom:5px !important;}
+.mb10{margin-bottom:10px !important;}
+.mb15{margin-bottom:15px !important;}
+.mb20{margin-bottom:20px !important;}
+.mb25{margin-bottom:25px !important;}
+.mb30{margin-bottom:30px !important;}
+.mb35{margin-bottom:35px !important;}
+.mb40{margin-bottom:40px !important;}
+.mb45{margin-bottom:45px !important;}
+.mb50{margin-bottom:50px !important;}
+.mb100{margin-bottom:100px !important;}
+.mb150{margin-bottom:150px !important;}
+.mr5{margin-right:5px !important;}
+.mr10{margin-right:10px !important;}
+.mr15{margin-right:15px !important;}
+.mr20{margin-right:15px !important;}
+.ml5{margin-left:5px !important;}
+.ml10{margin-left:10px !important;}
+.ml15{margin-left:15px !important;}
+.ml20{margin-left:20px !important;}
+.mt5{margin-top:5px !important;}
+.mt8{margin-top:8px !important;}
+.mt10{margin-top:10px !important;}
+.mt15{margin-top:15px !important;}
+.mt20{margin-top:20px !important;}
+
+
+/*padding*/
+.pd0{padding: 0 !important;}
+.pd5{padding: 5px !important;}
+.pd10{padding: 10px !important;}
+.pd20{padding: 20px !important;}
+.pd30{padding: 30px !important;}
+
+.pt5{padding-top:5px !important;}
+.pt10{padding-top:10px !important;}
+.pt15{padding-top:15px !important;}
+.pt20{padding-top:20px !important;}
+.pl5{padding-left:5px !important;}
+.pl10{padding-left:10px !important;}
+.pl15{padding-left:15px !important;}
+.pl20{padding-left:20px !important;}
+.pr5{padding-right:5px !important;}
+.pr10{padding-right:10px !important;}
+.pr15{padding-right:15px !important;}
+.pr20{padding-right:15px !important;}
+.pb5{padding-bottom:5px !important;}
+.pb10{padding-bottom:10px !important;}
+.pb15{padding-bottom:15px !important;}
+.pb20{padding-bottom:15px !important;}
+
+
+/*align*/
+.txtL{text-align:left !important;}
+.txtC{text-align:center !important;}
+.txtR{text-align:right !important;}
+
+
+/*float*/
+.flL{float:left !important;}
+.flR{float:right !important;}
+.clrB{clear:both !important}
+
+/*font-size*/
+.fs11{font-size:11px !important}
+.fs12{font-size:12px !important}
+.fs13{font-size:13px !important}
+.fs14{font-size:14px !important}
+.fs15{font-size:15px !important}
+.fs16{font-size:16px !important}
+.fs17{font-size:17px !important}
+.fs18{font-size:18px !important}
+.fs19{font-size:19px !important}
+.fs20{font-size:20px !important}
+
+
+/*font-style*/
+.fwb{font-weight:bold !important}
+.fund{text-decoration:underline !important;}
+
+
+/*width*/
+.w20{width:20px !important}
+.w30{width:30px !important}
+.w40{width:40px !important}
+.w50{width:50px !important}
+.w60{width:60px !important}
+.w70{width:70px !important}
+.w80{width:80px !important}
+.w90{width:90px !important}
+.w100{width:100px !important}
+.w110{width:110px !important}
+.w120{width:120px !important}
+.w130{width:130px !important}
+.w200{width:200px !important}
+
+
+/*color*/
+.fcPink{color:#f44494 !important}
+.fcBlue{color:#0971f2 !important}
+.fcDblue{color:#0147a7 !important}
+.fcRed{color:#e2383f !important}
+.fcYellow{color:#d59100 !important}
+.fcGreen{color:#288C28 !important}
+.fcLblue{color:#008fec !important}
+
+
+
+/*buttons*/
+.bigBtn{display:inline-block;min-width:100px;height:40px;line-height:40px;padding:0 20px;font-size:13px;text-align:center;font-weight:bold;vertical-align:middle}
+.midBtn{display:inline-block;min-width:55px;height:30px;line-height:30px;padding:0 8px;font-size:12px;text-align:center;font-weight:bold;vertical-align:middle}
+.minBtn{display:inline-block;min-width:50px;height:28px;line-height:28px;padding:0 8px;font-size:11px;text-align:center;vertical-align:middle;}
+.formBtn{display:inline-block;min-width:50px;height:21px;line-height:21px;padding:0 8px;font-size:11px;text-align:center;vertical-align:middle;}
+button.bigBtn{min-width:98px;height:38px;line-height:normal;}
+button.midBtn{min-width:57px;height:30px;line-height:normal;}
+button.minBtn{min-width:52px;height:30px;line-height:normal}
+button.formBtn{min-width:52px;height:23px;line-height:23px;vertical-align:normal;}
+.btnWhite{border:1px solid #cccccc;background-color:#fff;}
+.btnBlue{border:1px solid #0147a7;color:#fff;background-color:#0147a7;}
+.btnLblue{border:1px solid #0093f3;color:#fff;background-color:#0093f3;}
+.btnGray{border:1px solid #8d8d8d;color:#fff;background-color:#8d8d8d;}
+.btnDgray{border:1px solid #4b4b4b;color:#fff;background-color:#4b4b4b;}
+.btnRed{border:1px solid #b41112;color:#fff;background-color:#b41112;}
+.btnEme{border:1px solid #08b2c1;color:#fff;background-color:#08b2c1;}
+
+
+@media screen and (max-width: 1024px){
+	
+}
+
+@media screen and (max-width: 768px){
+	.n_mobile{display:none;}
+}
+
+@media screen and (max-width: 480px){
+	
+}
+
+.hide{display: none;}

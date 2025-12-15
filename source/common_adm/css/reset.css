@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* @import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css); */
+
+/*
+===============================================================================================
+1.	버    전 : reset.css
+2.	작 성 자 : 선종혁
+3.	참    고 : 초기화
+===============================================================================================
+*/
+
+* {margin:0;padding:0}
+body {font-size:12px;font-family:나눔고딕,Nanum Gothic,dotum,'돋움',sans-serif;word-break:keep-all;color:#757575}
+body, div, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, p, form, fieldset, input, table, tr, th, td, button,textarea {margin:0;padding:0}
+h1, h2, h3, h4, h5, h6 {font-weight:normal}
+ul, ol, li {list-style:none}
+hr {position:absolute;left:-1000%;top:0;width:1px;height:1px;font-size:0;line-height:0;overflow:hidden}
+legend {position:absolute;left:-1000%;top:0;width:1px;height:1px;font-size:0;line-height:0;overflow:hidden}
+caption {width:0;height:0;visibility:hidden;line-height:0;font-size:0}
+fieldset {border:none}
+a {text-decoration:none;color:#757575}
+a:hover, a:active, a:visited {text-decoration:none;color:#757575}
+img {border:0;vertical-align:top}
+button {border:0;background-color:transparent;cursor:pointer;vertical-align:top}
+input,select {vertical-align:middle}
+em,address {font-style:normal}
+table {table-layout:fixed;word-wrap:break-word;border-collapse:collapse;font-size:0.9em}
+label {cursor:pointer}
